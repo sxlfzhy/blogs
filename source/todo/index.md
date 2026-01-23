@@ -24,3 +24,4 @@ date: 2025-12-31 12:43:23
 
 - [唐志远的博客](https://fe32.top/articles/blog9528/)
 - [阮一峰的个人网站](https://www.ruanyifeng.com/)
+- [失迹的博客](https://blog.reincarnatey.net/)
